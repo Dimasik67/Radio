@@ -53,4 +53,7 @@ target/
 *.idea
 *target
 *.iml
+/.idea
+/target
+
 
