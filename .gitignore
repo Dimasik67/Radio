@@ -1,0 +1,55 @@
+target/
+
+	../../.CFUserTextEncoding
+	../../.DS_Store
+	../../.anyconnect
+	../../.cisco/
+	../../.gitconfig
+	../../.lesshst
+	../../.m2/
+	../../.ssh/
+	../../.viminfo
+	../../.vscode/
+	../../.yandex/
+	../../.zsh_history
+	../../.zsh_sessions/
+	../../Applications/
+	../../Desktop/
+	../../Documents/
+	../../Downloads/
+	../../GIT/
+	../.DS_Store
+	../BonusMilles/
+	../Calc.MassBody/
+	../CalculateBodyWeight/
+	../CreditPayment/
+	../DataForm/
+	../Integrat100/
+	../JaCoCOIntegratione/
+	../JaCoCoIntegration/
+	../JawaMvnQA/
+	../JawaQA2025/
+	../JawaQABonus/
+	../JawaQAMiles 2-1/
+	../Netology/
+	src/
+	../StatBusinnes/
+	../holidaymonth/pom.xml
+	../holidaymonth/src/
+	../jawaQA/
+	../jawaqamvn/
+	../monthHoliday/
+	../untitled/
+	../../Library/
+	../../Movies/
+	../../Music/
+	../../NGate_MO_Mac_1.1/
+	../../Pictures/
+	../../Public/
+	../../colab-first/
+
+### Mac OS ###
+.DS_Store
+*idea
+*target
+*.iml
